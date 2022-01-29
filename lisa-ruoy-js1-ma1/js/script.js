@@ -81,10 +81,15 @@ const cats = [
     }
 ];
 
+// Could not get this one, since I don't understand the parameters
+// function catList(list) {
+    
+// };
 
 
 // Qestion 8
 
+// I don't understand the parameters, need som help with this in the future
 const catContainer = document.querySelector(".cat-container");
 
 createCats.forEach(cats => {
